@@ -1,8 +1,11 @@
-name: "my-website"
+name: "Mi Reto"
+output_dir: docs
 navbar:
-  title: "My Website"
+  title: "Mi reto Bicicletas"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Mini_Muestra"
       href: about.html
+    - text: "Análisis"
+      href: Untitled1.html
