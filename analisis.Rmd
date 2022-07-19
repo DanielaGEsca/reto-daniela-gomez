@@ -1,0 +1,6 @@
+---
+title: "Analisis"
+author: "Daniela Gomez"
+date: '2022-07-19'
+output: html_document
+---

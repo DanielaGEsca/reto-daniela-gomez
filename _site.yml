@@ -6,6 +6,6 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Mini_Muestra"
-      href: about.html
+      href: Mini_muestra.html
     - text: "Análisis"
-      href: Untitled1.html
+      href: analisis.html
